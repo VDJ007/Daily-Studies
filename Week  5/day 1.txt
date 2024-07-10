@@ -1,1 +1,2 @@
 Recursion - A function which Calls/Repeats itself is called as Recursion.
+it breaks down complex parts into smaller parts and process it for further execution.
