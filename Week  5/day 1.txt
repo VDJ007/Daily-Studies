@@ -1,2 +1,8 @@
-Recursion - A function which Calls/Repeats itself is called as Recursion.
-it breaks down complex parts into smaller parts and process it for further execution.
+Recursion -
+
+1)A function which Calls/Repeats itself is called as Recursion.
+2)It breaks down complex parts into smaller parts and process it for further execution.
+3)It contains -
+a)Initiialization
+b)Conditional
+c)Increment and Decrement.
