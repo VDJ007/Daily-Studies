@@ -1,0 +1,16 @@
+Q. Wap to print all the natural numbers from 1 to 100.
+
+  public class Recursion {
+    void fun(int x ){//Initialization
+        if(x>100)
+            return;
+        fun(x+1);
+        System.out.print(x+ " ");
+
+    }
+
+    public static void main(String[] args) {
+        Recursion obj = new Recursion();
+        obj.fun(1);
+    }
+}
