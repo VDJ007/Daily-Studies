@@ -6,3 +6,9 @@ Recursion -
 a)Initiialization
 b)Conditional
 c)Increment and Decrement.
+
+4)When a function calls itself inside it is called as a function.
+5)Used to solve complex questions by diving bigger problems into  smalller ones.
+6)Recursion uses Recusrsion Stack.
+7)It takes more memory.
+8)It uses Top down and Bottom up Approach.
