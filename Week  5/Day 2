@@ -4,6 +4,7 @@ Less Time  <---
               |=====> Best Combination 
 Less Space <---
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Time Complexity - The valid algorithm takes a finite amount of time for execution. The time required by the algorithm to solve given problem is called
                   time complexity  of the algorithm.
@@ -13,9 +14,9 @@ Time Complexity - The valid algorithm takes a finite amount of time for executio
                                                         |
              --------------------------------------------------------------------------------------------
             |                                           |                                                |
-          Best                                       Average                                           Worst
+          Best Case                                  Average Case                                      Worst Case
            ||                                           ||                                               ||
-    (Represented by Ω)                         (Represented by θ)                            (Represented by big-Ω)   
+    (Represented by Ω)                         (Represented by θ)                                (Represented by big-Ω)   
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * How to Find ->
@@ -23,6 +24,7 @@ Time Complexity - The valid algorithm takes a finite amount of time for executio
 # What is the complexity of a constant?
 ==>The first order of functions, O(1), or constant time complexity, signifies that the algorithm's running time is independent of the input size and is the most efficient.
    The other O-notations are listed in their rank order of efficiency.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * For Example -
 
@@ -123,9 +125,19 @@ n = Log K.
 * Space Complexity - 
                    The total amount of memory space used by an algorithm/program, including the space of input values for execution.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Topics covered in DSA - 
 
+1)2D Array 
+2)Linked list
+3)Stack 
+4)Queue
+5)Hash set,Hash Map
+6)Trees
+7)Graph
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
