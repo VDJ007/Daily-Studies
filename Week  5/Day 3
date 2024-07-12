@@ -1,1 +1,25 @@
+2D-Array :
+                          Columns
+-----------------------------------------------------
+|        |          |   0   |   1  |   2   |   3   |
+         -------------------------------------------
+         |    0     |      |      |       |        |      
+         | ---------|------|------|-------|--------|
+ Rows    |    1     |      |      |       |        |
+         |----------|------|------|-------|--------|  
+         |    2     |      |      |       |        |
+         |----------|------|------|-------|--------| 
+         |    3     |      |      |       |        |
+         |------------------------------------------
+
+*Features of 2D Array :-
+
+* 2D Array provide a structured way to represent the data in rows and columns.
+* THey are suitable for tabular data,grids,matrices where information needs to be organizied in a 2D format.
+* Elements in a 2D array can be accessed using two indices - one for the row and one for columns.
+* This allows for efficient data retrieval and manipulation,making 2D array ideal for tasks such as image processing and spreadsheet applications.
+* The time complexity for 2D array is n.
+
+* How to create an 2D Array :-
+
 
