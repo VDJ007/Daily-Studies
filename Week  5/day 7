@@ -1,0 +1,29 @@
+Types of Linked Lists:
+1)Singly Linked List: Each node points to the next node in the sequence.
+2)Doubly Linked List: Each node has pointers to both the next and the previous nodes.
+3)Circular Linked List: The last node points back to the first node, forming a circle.
+
+   Real Examples:- 
+Operating Systems: Memory Management
+Music and Video Playback
+Web Browsers: History Management
+Databases: Transaction Management
+Job Scheduling
+Text Editors: Undo Functionality
+Symbol Tables in Compilers
+Data Packet Processing in Networking
+
+Memory Management :
+In Java, the garbage collector (GC) is a part of the Java Virtual Machine (JVM) responsible for automatically managing memory by reclaiming memory from objects that are no longer reachable or in use by the program. Its main tasks include:
+
+1)Memory Management: Identifying and reclaiming memory occupied by objects that are no longer reachable.
+2)Optimization: Performing memory compaction and other optimizations to improve memory usage and application performance.
+3)Automatic Operation: Operating independently of the application code, running in the background to manage memory efficiently.
+  
+Java's garbage collector helps developers avoid memory leaks and manual memory management pitfalls common in other programming languages, promoting more robust and reliable applications.
+
+In Java, an object becomes eligible for garbage collection when:
+1)No References: There are no more references pointing to the object.
+2)Out of Scope: Local objects go out of scope when the method ends.
+3)Isolated Objects: Objects reference each other but are otherwise unreachable.
+The garbage collector automatically reclaims memory from such objects.
