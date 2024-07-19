@@ -1,1 +1,14 @@
+* Stack :-
+A stack is a DS that follows the LIFO principle.This means that the last element added to the stack is the first one to be removed.
+
+* Key Operationns -
+1)Push - Add an element to the top of stack.
+2)Pop - Remove and return top elements.
+3)Peek - Return the top element withhout removing it.
+4)IsEmpty - Check if the stack is empty.
+
+* Use Cases - 
+1) Backtracking 
+2) Expression Evaluation
+3) Function Call Management.
 
