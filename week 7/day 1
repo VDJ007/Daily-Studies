@@ -7,3 +7,11 @@ Stack & Queue - 15 Problems.
 
 Week 1 -   Strings !
 Solve leetcode problems daily on Strings. 
+
+dubey 
+
+y => ("",y)
+ey => ("",y,e,ey)
+bey => ("",y,e,ey,b,be,by,bey)
+ubey => ("",y,e,ey,b,be,by,bey,u,uby,ue,uey,ub,ube,uby,,ubey)
+dubey => ("",y,e,ey,b,be,by,bey,u,uby,ue,uey,ub,ube,uby,ubey,dy,de,dey,db,dbe,dby,dbey,du,duby,due,duey,dub,dube,duby,dubey)
