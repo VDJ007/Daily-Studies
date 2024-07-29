@@ -24,3 +24,9 @@ da -("",a,d,da)
 bda - ("",a,d,da,b,ba,bd,bda)
 cbda - ("",a,d,da,b,ba,bd,bda,c,ca,cd,cda,cb,cba,cbd,cbda)
 bcbda - ("",a,d,da,b,ba,bd,bda,c,ca,
+
+
+gfg - 
+g - ("",g)
+fg - ("",g,f,fg)
+gfg - ("",g,f,fg,g,gg,gf,gfg)
