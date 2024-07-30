@@ -31,4 +31,8 @@ Causes of Hash Collisions -
 
 Quadratic probing => H(x,i) = (H(x) + i^2) % table_size .
 
-Double Hashing => H(x,i) = (Hash1(x) + i * Hash2(x)) %  table_size.
+
+To find H1(x) = x % table_size
+To find H2(x) = 1 + (x %(Table_size-1))
+then apply the below formula -
+Double Hashing => H(x,i) = (Hash1(x) + i * Hash2(x)) % table_size.
