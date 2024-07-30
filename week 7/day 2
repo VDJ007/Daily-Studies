@@ -16,3 +16,14 @@ Causes of Hash Collisions -
 1)Poor Hash Function.
 2)High Load Factor.
 3)Similar Keys.
+
+                                            Collison Resolution Techniques -         
+                                                          |
+----------------------------------------------------------------------------------------------------------------
+|                                                                                                              |
+1)Separate                                                                                                  2)Open Addressing     
+(Open Hashing)                                                                                              (Closed Hashing)
+                                                                                                                  |
+                                                                                                                  |-------Linear Probing
+                                                                                                                  |-------Quadratic Probing
+                                                                                                                  |-------Double Hashing
