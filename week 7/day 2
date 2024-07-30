@@ -2,4 +2,9 @@ Hashing -
 A Technique that gives u a convienent way to store and search for elements in larger db.
 
 Hash Function - 
-it is a deteministic function that takes an input and returns a value known as hash value. 
+It is a deteministic function that takes an input and returns a value known as hash value. 
+It is a function that takes a key and returns an index into the hash table.
+
+* To calculate hash function we use - 
+H(x) = x % 10 
+place the value of x at that particular position.
