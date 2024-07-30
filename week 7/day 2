@@ -1,3 +1,5 @@
 Hashing -
 A Technique that gives u a convienent way to store and search for elements in larger db.
 
+Hash Function - 
+it is a deteministic function that takes an input and returns a value known as hash value. 
