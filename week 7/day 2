@@ -36,3 +36,6 @@ To find H1(x) = x % table_size
 To find H2(x) = 1 + (x %(Table_size-1))
 then apply the below formula -
 Double Hashing => H(x,i) = (Hash1(x) + i * Hash2(x)) % table_size.
+
+Hash Table - 
+It is an array that stores pointers to data mapped to given hashed key.
