@@ -19,10 +19,10 @@ Causes of Hash Collisions -
 
                                             Collison Resolution Techniques -         
                                                           |
-----------------------------------------------------------------------------------------------------------------
-|                                                                                                              |
-1)Separate                                                                                                  2)Open Addressing     
-(Open Hashing)                                                                                              (Closed Hashing)
+                      ------------------------------------------------------------------------------------------
+                      |                                                                                        |
+                1)Separate                                                                               2)Open Addressing     
+              (Open Hashing)                                                                              (Closed Hashing)
                                                                                                                   |
                                                                                                                   |-------Linear Probing
                                                                                                                   |-------Quadratic Probing
