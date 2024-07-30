@@ -27,3 +27,6 @@ Causes of Hash Collisions -
                                                                                                                   |-------Linear Probing
                                                                                                                   |-------Quadratic Probing
                                                                                                                   |-------Double Hashing
+
+
+Quadratic probing = H(x,i) = (H(x) + i^2) % table_size .
