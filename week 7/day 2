@@ -8,3 +8,6 @@ It is a function that takes a key and returns an index into the hash table.
 * To calculate hash function we use - 
 H(x) = x % 10 
 place the value of x at that particular position.
+
+Hash Collision - 
+It occurs when two or more keys maps to the same index in a hash table. 
