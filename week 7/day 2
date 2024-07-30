@@ -11,3 +11,8 @@ place the value of x at that particular position.
 
 Hash Collision - 
 It occurs when two or more keys maps to the same index in a hash table. 
+
+Causes of Hash Collisions - 
+1)Poor Hash Function.
+2)High Load Factor.
+3)Similar Keys.
