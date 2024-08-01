@@ -1,1 +1,9 @@
+Hands on Practice on Hash Table -
+
+Crud Operations For - 
+to Create/Update => use tb.put()  // to update or add the value so it overrides the current one .
+to Delete => use tb.remove()
+to check if key is present => tb.containsKey()
+to check if contains value => tb.containsValue()
+to Check size of hashtable => tb.size()
 
