@@ -30,10 +30,13 @@ public class HashTableP {
         System.out.println(ht);
 
         for (Integer pt : ht.keySet()){
-            System.out.println(pt);  //Prints all the keys by taking pt as a pointer.
+            System.out.println(pt);                                 //Prints all the keys by taking pt as a pointer.
         }
         for (String pt : ht.values()){
-            System.out.println(pt); //Prints all the values by taking pt as a pointer
+            System.out.println(pt);                                 //Prints all the values by taking pt as a pointer
+        }
+        for (Map.Entry<Integer,String> pt:ht.entrySet()){
+            System.out.println(pt.getKey()+ " " +pt.getValue());    //Prints all the Values and keys by taking pt as a pointer.
         }
     }
 }
