@@ -45,3 +45,13 @@ public class HashTableP {
 # THREAD SAFE - 
 Hashtable is thread-safe and can be shared between multiple threads in the application.
 On the other hand, HashMap is not synchronized and can't be accessed by multiple threads without additional synchronization code.
+
+
+# HASH MAP - 
+Part of Java collection framework & is similar to HashTable ....
+Java HashMap is similar to HashTable, but it is unsynchronized. 
+It allows to store the null keys as well, but there should be only one null key object and there can be any number of null values. 
+This class makes no guarantees as to the order of the map. 
+To use this class and its methods, you need to import java.util.HashMap package or its superclass.
+
+
