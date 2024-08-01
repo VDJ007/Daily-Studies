@@ -91,6 +91,15 @@ public class HashMap1 {
 }
 
 
+# HASH SET - 
+Collection that implements the set interface backed by a hash table.
+it does not alllow duplicate elements.
+
+Characteristics -
+Unique Elements - automatically removes duplicate elements.
+Hash Function - 
+No order 
+
 
 
 
