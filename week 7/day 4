@@ -72,6 +72,16 @@ public class HashMap1 {
         mp.remove(5);
         System.out.println(mp.size());
         System.out.println(mp);
+
+        for (Integer pt : mp.keySet()){
+            System.out.println(pt);
+        }
+        for (String pt : mp.values()){
+            System.out.println(pt);
+        }
+        for (Map.Entry<Integer,String> pt:mp.entrySet()){
+            System.out.println(pt.getKey()+ " " +pt.getValue());
+        }
     }
 }
 
