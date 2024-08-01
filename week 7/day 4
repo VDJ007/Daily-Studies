@@ -32,7 +32,8 @@ public class HashTableP {
         for (Integer pt : ht.keySet()){
             System.out.println(pt);  //Prints all the keys by taking pt as a pointer.
         }
-
-
+        for (String pt : ht.values()){
+            System.out.println(pt); //Prints all the values by taking pt as a pointer
+        }
     }
 }
