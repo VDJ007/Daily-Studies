@@ -40,3 +40,8 @@ public class HashTableP {
         }
     }
 }
+
+
+# THREAD SAFE - 
+Hashtable is thread-safe and can be shared between multiple threads in the application.
+On the other hand, HashMap is not synchronized and can't be accessed by multiple threads without additional synchronization code.
