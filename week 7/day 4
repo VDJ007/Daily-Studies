@@ -19,7 +19,7 @@ public class HashTableP {
         ht.put(10,"Ashpak");
         ht.put(11,"Sandeep");
         ht.put(12,"Rushikesh");
-        ht.put(14,"Sourup");
+        ht.put(14,"Swarup");
         ht.put(7,"Vighnesh");
         ht.put(19,"Krishna");
 
