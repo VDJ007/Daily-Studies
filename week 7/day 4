@@ -54,6 +54,11 @@ It allows to store the null keys as well, but there should be only one null key 
 This class makes no guarantees as to the order of the map. 
 To use this class and its methods, you need to import java.util.HashMap package or its superclass.
 
+# Characteristic of HashMap -
+1)Not Thread-safe 
+2)Non - Synchronized 
+3)Allow Nulls 
+
 # Sample Program =>
 
 import java.util.HashMap;
