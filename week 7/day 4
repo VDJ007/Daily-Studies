@@ -28,5 +28,11 @@ public class HashTableP {
         System.out.println(ht.containsValue("Ashpak"));
         System.out.println(ht.size());
         System.out.println(ht);
+
+        for (Integer pt : ht.keySet()){
+            System.out.println(pt);  //Prints all the keys by taking pt as a pointer.
+        }
+
+
     }
 }
