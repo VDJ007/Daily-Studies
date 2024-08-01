@@ -36,7 +36,7 @@ public class HashTableP {
             System.out.println(pt);                                 //Prints all the values by taking pt as a pointer
         }
         for (Map.Entry<Integer,String> pt:ht.entrySet()){
-            System.out.println(pt.getKey()+ " " +pt.getValue());    //Prints all the Values and keys by taking pt as a pointer.
+            System.out.println(pt.getKey()+ " " +pt.getValue());    //Prints all the Values and keys together by taking pt as a pointer.
         }
     }
 }
