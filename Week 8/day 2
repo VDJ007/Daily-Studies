@@ -1,1 +1,15 @@
+Trees - 
 
+Binary Tree :
+
+Types of Traversal methods :
+
+Breadth-First Search (BFS) and Depth-First Search (DFS) for Binary Trees are ways to traverse nodes of the Binary Tree. This article aims to provide the basic difference between BFS and DFS for Binary Tree.
+
+A Tree is typically traversed in two ways:
+1)Breadth First Traversal (Or Level Order Traversal)
+2)Depth First Traversals
+
+1)Inorder Traversal (Left-Root-Right)
+2)Preorder Traversal (Root-Left-Right)
+3)Postorder Traversal (Left-Right-Root)
