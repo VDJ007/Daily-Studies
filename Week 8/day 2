@@ -13,3 +13,7 @@ A Tree is typically traversed in two ways:
 1)Inorder Traversal (Left-Root-Right)
 2)Preorder Traversal (Root-Left-Right)
 3)Postorder Traversal (Left-Right-Root)
+
+wap to take a input from user to search if the elememnt is present or not
+wap to sum of all the binary trees.
+wap to find maximum element in a binary tree .
