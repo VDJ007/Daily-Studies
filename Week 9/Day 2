@@ -6,3 +6,13 @@ b)all nodes must be at same lvl.
 
 2)Balanced - 
 a)diff btw L & R subtree shld be atmost 1.
+
+3)Full - 
+a)Each node shld have either 0 or 2 child.
+
+4)Complete -
+a)Each node should have 0 or 2 child n if there is 1 child then it must be a left child.
+
+5)Degenerated - 
+a)Left Skewed
+b)Right Skewed
