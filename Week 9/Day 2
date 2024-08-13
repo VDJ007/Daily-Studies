@@ -1,1 +1,8 @@
+Binary Tree Types -
 
+1)Perfect - 
+a)Each node must have 0 or 2 child.
+b)all nodes must be at same lvl.
+
+2)Balanced - 
+a)diff btw L & R subtree shld be atmost 1.
