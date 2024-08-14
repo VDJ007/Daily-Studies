@@ -2,7 +2,7 @@ Binary Search Tree -
                     a)Left elements always smaller than the root node.
                     b)Right elements always greater than the root node.
 
-
+wap to print the lowest common ancestor
 Wap to print all the leaf nodes
 wap to print bottom view of a tree.
 wap to print in spiral order.
