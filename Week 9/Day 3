@@ -1,2 +1,5 @@
-Binary Search Tree - 
+Binary Search Tree -
+                    a)Left elements always smaller than the root node.
+                    b)Right elements always greater than the root node.
+
                     
